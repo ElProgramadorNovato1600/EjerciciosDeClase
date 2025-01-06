@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02ed27c0-c69f-47fb-a1ad-c96c877772a8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2nn5ACLFy0ZraPRLozui2tVRpje" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Ejercicio1.executor": "Run",
+    "Application.Ejercicio10.executor": "Run",
+    "Application.Ejercicio11.executor": "Run",
+    "Application.Ejercicio15.executor": "Run",
+    "Application.Ejercicio16.executor": "Run",
+    "Application.Ejercicio17.executor": "Run",
+    "Application.Ejercicio18.executor": "Run",
+    "Application.Ejercicio19.executor": "Run",
+    "Application.Ejercicio2.executor": "Run",
+    "Application.Ejercicio20.executor": "Run",
+    "Application.Ejercicio22.executor": "Run",
+    "Application.Ejercicio23.executor": "Run",
+    "Application.Ejercicio24.executor": "Run",
+    "Application.Ejercicio26.executor": "Run",
+    "Application.Ejercicio27.executor": "Run",
+    "Application.Ejercicio28.executor": "Run",
+    "Application.Ejercicio29.executor": "Run",
+    "Application.Ejercicio3.executor": "Run",
+    "Application.Ejercicio30.executor": "Run",
+    "Application.Ejercicio4.executor": "Run",
+    "Application.Ejercicio5.executor": "Run",
+    "Application.Ejercicio6.executor": "Run",
+    "Application.Ejercicio7.executor": "Run",
+    "Application.Ejercicio8.executor": "Run",
+    "Application.Ejercicio9.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/2024-2025/programacion/R2-T2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Ejercicio30">
+    <configuration name="Ejercicio26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="r2.t2.Ejercicio26" />
+      <module name="R2-T2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="r2.t2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="r2.t2.Ejercicio27" />
+      <module name="R2-T2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="r2.t2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="r2.t2.Ejercicio28" />
+      <module name="R2-T2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="r2.t2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="r2.t2.Ejercicio29" />
+      <module name="R2-T2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="r2.t2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="r2.t2.Ejercicio30" />
+      <module name="R2-T2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="r2.t2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ejercicio30" />
+        <item itemvalue="Application.Ejercicio29" />
+        <item itemvalue="Application.Ejercicio28" />
+        <item itemvalue="Application.Ejercicio27" />
+        <item itemvalue="Application.Ejercicio26" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02ed27c0-c69f-47fb-a1ad-c96c877772a8" name="Changes" comment="" />
+      <created>1729595854068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729595854068</updated>
+    </task>
+    <servers />
+  </component>
+</project>
