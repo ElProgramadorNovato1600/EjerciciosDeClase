@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -27,28 +30,30 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Ejercicio1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio12.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio9.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/2024-2025/programacion/R3-T3&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Ejercicio1.executor": "Run",
+    "Application.Ejercicio10.executor": "Run",
+    "Application.Ejercicio11.executor": "Run",
+    "Application.Ejercicio12.executor": "Run",
+    "Application.Ejercicio13.executor": "Run",
+    "Application.Ejercicio2.executor": "Run",
+    "Application.Ejercicio3.executor": "Run",
+    "Application.Ejercicio4.executor": "Run",
+    "Application.Ejercicio5.executor": "Run",
+    "Application.Ejercicio6.executor": "Run",
+    "Application.Ejercicio7.executor": "Run",
+    "Application.Ejercicio8.executor": "Run",
+    "Application.Ejercicio9.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "Rebasing master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/2024-2025/programacion/R3-T3",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="org.example" />
