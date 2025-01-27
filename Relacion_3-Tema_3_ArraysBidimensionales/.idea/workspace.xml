@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11486325-1263-455c-96f7-48c6cc711050" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/R2-T2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/built-jar.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio24.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio25.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio26.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio27.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio28.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio29.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio30.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/Ejercicio9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/build/classes/r2/t2/R2T2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/dist/R2-T2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/dist/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/nbproject/private/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio24.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio25.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio26.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio27.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio28.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio29.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio30.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/Ejercicio9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/out/production/R2-T2/r2/t2/R2T2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/Ejercicio9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relacion_2-Tema_2/src/r2/t2/R2T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LeerDatosEntrada.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2oCAKZk6M2f2VzIdxh0jLcENw0x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Merging master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ejercicio13">
+    <configuration name="Ejercicio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Ejercicio10" />
+      <module name="R3-T2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Ejercicio11" />
+      <module name="R3-T2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Ejercicio12" />
+      <module name="R3-T2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Ejercicio13" />
+      <module name="R3-T2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Ejercicio9" />
+      <module name="R3-T2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ejercicio13" />
+        <item itemvalue="Application.Ejercicio12" />
+        <item itemvalue="Application.Ejercicio11" />
+        <item itemvalue="Application.Ejercicio10" />
+        <item itemvalue="Application.Ejercicio9" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11486325-1263-455c-96f7-48c6cc711050" name="Changes" comment="" />
+      <created>1730363123573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730363123573</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/R3_T3$Ejercicio13.ic" NAME="Ejercicio13 Coverage Results" MODIFIED="1731067457219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
+  </component>
+</project>
