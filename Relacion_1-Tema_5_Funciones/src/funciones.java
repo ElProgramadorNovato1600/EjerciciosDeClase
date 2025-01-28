@@ -1,3 +1,8 @@
+
+/*
+* @author Antonio Espínola Ramírez
+* */
+
 public class funciones {
 
     //1. Crea una función de clase (estática) pública que no reciba nada como
